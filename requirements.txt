@@ -1,0 +1,3 @@
+quickfix == 1.15.1
+pytest == 8.2.2
+robotframework == 7.0.1
